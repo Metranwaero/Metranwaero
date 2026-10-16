@@ -6,8 +6,8 @@ I'm Metra (@Metranwaero) — an independent musician, filmmaker, and software de
 💻 Bloom — An HTML editor.
 
 # Software & Projects
-🎮 Nintendo Wii Software
+🎮 Nintendo Wii
 
-🖥️ Windows Software
+🕹️ Nintendo DS
 
-🌐 Projects for Other Platforms
+🌐 Other Platforms
